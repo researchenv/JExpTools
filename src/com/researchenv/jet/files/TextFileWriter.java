@@ -1,5 +1,5 @@
 /*
-Copyright (c) 2015, researchenv
+Copyright (c) 2015, Erbe Pandini Rodrigues
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
